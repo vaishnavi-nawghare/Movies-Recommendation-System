@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
-* temp.txt
+# Auto detect text files and perform LF normalizatio
+temp.txt
+.DS_Store
