@@ -19,6 +19,7 @@ You can install them using the following command:
 
 ```bash
 pip install pandas matplotlib seaborn jupyter
+```
 
 # Dataset
 The recommendation system is built on a movie dataset containing user ratings. The dataset may include information such as user IDs, movie IDs, and ratings. You can use publicly available datasets like MovieLens or any other suitable dataset for movie recommendations.
