@@ -36,7 +36,7 @@ Matplotlib and Seaborn are employed for data visualization. The distribution of 
 # Usage
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/movierecsys.git
+    git clone [https://github.com/yourusername/movierecsys.git](https://github.com/vaishnavi-nawghare/Movies-Recommendation-System)
     cd movierecsys
     ```
 
